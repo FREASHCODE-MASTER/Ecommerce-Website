@@ -1,6 +1,6 @@
 ## Ecommerce-Website
 
-This is an Ecommerce shopping website. And this is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is an Ecommerce shopping website. Build by React + Mongodb + Tailwind CSS. And this is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
